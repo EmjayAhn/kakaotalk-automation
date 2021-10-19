@@ -1,5 +1,7 @@
 # Macro for message using kakaotalk
-
+스터디 모임 중 메시지를 자동으로 보내주길 바라는 매크로를 설정하고 싶어 만든
+간단한 코드입니다.
+원하는 날짜와 시간 매크로 기능은 Shell Script 의 crontab을 사용합니다.
 ## Requirements
 - pyautogui
 - Install Kakaotalk
